@@ -1,0 +1,27 @@
+{
+  "name": "bot-whatsapp-educacional",
+  "version": "1.0.0",
+  "description": "Bot de atendimento automatizado para WhatsApp - Projeto Educacional",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "nodemon bot.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "chatbot",
+    "automation"
+  ],
+  "author": "Seu Nome",
+  "license": "MIT",
+  "dependencies": {
+    "@wppconnect-team/wppconnect": "^1.29.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}

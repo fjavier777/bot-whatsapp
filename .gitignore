@@ -1,0 +1,75 @@
+# Dependências
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Tokens e sessões do WhatsApp
+tokens/
+*.data.json
+.wwebjs_auth/
+.wwebjs_cache/
+
+# Arquivos de sessão do wppconnect
+session-*.data.json
+puppeteer-*.data.json
+
+# Variáveis de ambiente e configurações sensíveis
+.env
+.env.local
+.env.*.local
+config.json
+*.config.json
+
+# Logs
+logs/
+*.log
+
+# Sistema operacional
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# IDEs e editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# Arquivos temporários
+*.tmp
+*.temp
+tmp/
+temp/
+
+# Arquivos de backup
+*.bak
+*.backup
+*~
+
+# Dados do Chrome/Chromium (usado pelo Puppeteer)
+.local-chromium/
+chrome-user-data/
+
+# Build e distribuição
+dist/
+build/
+*.tgz
+
+# Coverage e testes
+coverage/
+.nyc_output/
+
+# Arquivos de debug
+debug.log
