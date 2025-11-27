@@ -367,6 +367,10 @@ Este projeto está sob a licença **MIT**. Consulte o arquivo [LICENSE](https://
 
 ## 👨‍💻 Autor
 
+Desenvolvido por **[Fernando J. A. Bello](https://github.com/fjavier777)**
+
+Projeto educacional para estudo de automação, chatbots e integração com APIs.
+
 Desenvolvido para fins educacionais e de aprendizado.
 
 ---
