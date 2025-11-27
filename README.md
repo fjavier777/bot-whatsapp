@@ -13,8 +13,8 @@
 
 [Recursos](#-recursos) • [Instalação](#-instalação) • [Como Usar](#-como-usar) • [Personalização](#-personalizando-o-bot) • [Avisos](#-avisos-importantes)
 
-[![GitHub stars](https://img.shields.io/github/stars/seu-usuario/bot-whatsapp?style=social)](https://github.com/seu-usuario/bot-whatsapp/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/seu-usuario/bot-whatsapp?style=social)](https://github.com/seu-usuario/bot-whatsapp/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/fjavier777/bot-whatsapp?style=social)](https://github.com/fjavier777/bot-whatsapp/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/fjavier777/bot-whatsapp?style=social)](https://github.com/fjavier777/bot-whatsapp/network/members)
 
 </div>
 
@@ -59,7 +59,7 @@ Antes de começar, você vai precisar ter instalado:
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/bot-whatsapp.git
+git clone https://github.com/fjavier777/bot-whatsapp.git
 cd bot-whatsapp
 ```
 
@@ -256,6 +256,7 @@ bot-whatsapp/
 ├── bot.js             # Código principal do bot
 ├── package.json       # Configurações e dependências
 ├── .gitignore         # Arquivos ignorados pelo Git
+├── LICENSE            # Licença MIT do projeto
 └── README.md          # Este arquivo
 ```
 
@@ -358,7 +359,9 @@ Os desenvolvedores deste projeto **não se responsabilizam** por:
 
 ## 📄 Licença
 
-Este projeto está sob a licença **MIT**. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está sob a licença **MIT**. Consulte o arquivo [LICENSE](https://github.com/fjavier777/bot-whatsapp/blob/main/LICENSE) para mais detalhes.
+
+**Importante:** Este projeto é destinado exclusivamente para fins educacionais. O uso de bibliotecas não-oficiais do WhatsApp pode violar os Termos de Serviço.
 
 ---
 
@@ -372,8 +375,8 @@ Desenvolvido para fins educacionais e de aprendizado.
 
 Tem dúvidas, sugestões ou quer contribuir? Entre em contato:
 
-- 🐛 **Reportar bugs**: Abra uma [issue](../../issues)
-- 💬 **Dúvidas gerais**: Use as [discussões](../../discussions)
+- 🐛 **Reportar bugs**: Abra uma [issue](https://github.com/fjavier777/bot-whatsapp/issues)
+- 💬 **Dúvidas gerais**: Use as [discussões](https://github.com/fjavier777/bot-whatsapp/discussions)
 - 💼 **LinkedIn**: [fjavier777](https://www.linkedin.com/in/fjavier777)
 - ⭐ **Curtiu o projeto?**: Deixe uma estrela no repositório!
 
